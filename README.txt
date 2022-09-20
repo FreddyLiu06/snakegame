@@ -6,10 +6,6 @@ CIS 120 Game Project README
 =: Core Concepts :=
 ===================
 
-- List the four core concepts, the features they implement, and why each feature
-  is an appropriate use of the concept. Incorporate the feedback you got after
-  submitting your proposal.
-
   1. 2D Arrays
     I used a 2D array to model the grid of the game. A 2D array was appropriate because the rows and the columns of the
     grid each correspond to one of the dimensions of the array. I stored arrays of GridBox objects, where each GridBox
