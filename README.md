@@ -11,5 +11,7 @@ To read more about the details of the implementation of the game, please have a 
 
 ### Other files
 Below are some of the other more notable files in the repository
-- JUnit testing \\
+- JUnit testing  
 I implemented some JUnit tests to test my game and make sure that the features and functions were working properly and taking care of edge cases. These can be found in the file `./src/test/java/org/cis120/snakegame/GameTest.java` or you can follow the link [here](./src/test/java/org/cis120/snakegame)
+- Class files
+Most of the Java class files that I used to develop the game can be found at `./src/main/java/org/cis120/snakegame`, or at the link [here](./src/test/java/org/cis120/snakegame)
